@@ -6,6 +6,10 @@
 Welcome to wedoaddons's documentation!
 ======================================
 
+`wedoaddons`_ is a provider of add ons for ExpressionEngine.
+
+.. _wedoaddons: http://wedoaddons.com
+
 Contents:
 
 .. toctree::
